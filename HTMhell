@@ -1,0 +1,44 @@
+<h1>HTML<h1>
+
+
+<p>HTML stands for HyperText Markup Language.<br>
+
+"Hypertext" refers to links that connect web pages to one another, either within a single website or between websites.<br>
+
+HTML describes the structure of a web page.<br>
+
+HTML has tree structure consisting of branches and nodes.</p>
+
+<h3>markup</h3>
+
+
+<h2>HTML elements</h2>
+
+<p>HTML elements are the building blocks of HTML pages.<br>
+
+An HTML element is set off from other text in a document by "tags".</p>
+
+
+
+<h2>HTML tags</h2>
+
+<p>HTML5, the current standard for HTML, has roughly 100 tags.<br>
+
+Tags consist of the element name surrounded by "<" and ">".<p>
+
+
+<h3>classes</h3>
+
+<h4>texts</h4>
+
+<h4>media</h4>
+
+
+<h2>web browsers</h2>
+
+<p>Browsers do not display the HTML tags, but use them to interpret the content of the page.<br>
+
+Many browsers have default styles for the appearance of the document based on the meaning of the tag.</p>
+
+
+<h3>interaction</h3>
