@@ -26,12 +26,13 @@ An HTML element is set off from other text in a document by "tags".</p>
 
 Tags consist of the element name surrounded by "<" and ">".<p>
 
+<ul>
+<li>classes</li>
 
-<h3>classes</h3>
+<li>texts</li>
 
-<h4>texts</h4>
-
-<h4>media</h4>
+<li>media</li>
+</ul>
 
 
 <h2>web browsers</h2>
